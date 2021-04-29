@@ -1,6 +1,6 @@
 # SIT210-Task3.3D-CloudFunction
 
-#Using Pi to publish event
+# Using Pi to publish event
 void setup() 
 {
 }
